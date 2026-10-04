@@ -1,0 +1,16 @@
+Axperimentarium
+Copyright (c) 2026 Peter Juul Noer. All rights reserved.
+
+Axperimentarium is free to download and use, for any purpose, including
+recording and performing music commercially. The sounds you make with it are
+yours.
+
+You may not sell it, bundle it with other products, or host the download
+anywhere else; please link to this page instead. You may not reverse-engineer
+it except where the law allows.
+
+The software is provided "as is", without warranty of any kind. The author is
+not liable for any damage arising from its use, including damage to hearing or
+equipment: keep the volume sensible.
+
+Third-party components are under their own licences; see THIRD-PARTY.txt.
