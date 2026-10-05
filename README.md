@@ -1,4 +1,4 @@
-# Axperimentarium
+<p align="center"><img src="docs/logo.jpg" alt="Axperimentarium" width="480"></p>
 
 A guitar rig for Windows. Amps, cabinets, pedals and rooms, played live through your audio interface.
 
