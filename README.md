@@ -5,7 +5,7 @@ A guitar rig for Windows. Amps, cabinets, pedals and rooms, played live through 
 **Plays your own Neural Amp Modeler captures (including A2), cabinet IRs and space (room) IRs**, next to its own
 modelled amps, cabinets and 24 bundled rooms.
 
-Free. By Peter Juul Noer.
+Free. By Peter Juul Noer. Built on Unda, the real-time audio engine from [Drylane](https://drylane.io).
 
 ![The pedalboard](docs/screenshots/pedalboard.webp)
 
